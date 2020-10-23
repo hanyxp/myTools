@@ -1,4 +1,4 @@
-package gomodone
+package god
 
 import "fmt"
 
