@@ -1,3 +1,3 @@
-module github.com/hanyxp/gomodone
+module github.com/hanyxp/god
 
 go 1.15
