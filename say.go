@@ -1,6 +1,10 @@
-package god
+package main
 
 import "fmt"
+
+func main() {
+	Say("hahah")
+}
 
 func Say(name string) {
 	str := fmt.Sprintf("vim-go %s", name)
