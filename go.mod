@@ -1,3 +1,3 @@
-module github.com/hanyxp/god
+module github.com/hanyxp/myTools
 
 go 1.15
