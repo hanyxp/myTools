@@ -1,3 +1,3 @@
-module github.com/hanyxp/myTools
+module github.com/hanyxp/mytools
 
-go 1.15
+go 1.18
